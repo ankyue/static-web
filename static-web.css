@@ -1,0 +1,31 @@
+.header{
+    width: 100%;
+    height: 320px;
+}   
+.header .header-top{
+    height: 250px;
+    background: chartreuse;
+}
+.header .header-top .header-top-l{
+    float: left;
+    width: 25%;
+    height: 250px;
+    background:#ffc57f;
+}
+.header .header-top .header-top-l img{
+    margin-top: 50px;
+    /* margin-left: 5px; */
+    width: 100%;
+    height: 150px;
+}
+.header .header-top .header-top-r{
+    float: right;
+    width: 75%;
+    height: 250px;
+    background:lightblue;
+    background: url(images/background.png.png);
+}
+.header .header-top .header-top-r .search{
+    margin-top: 250px;
+    float: right;
+}
