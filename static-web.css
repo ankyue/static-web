@@ -28,14 +28,9 @@
     margin-top: 250px;
     float: right;
 }
-.header .header-bootom{
-    width: 100%;
-    height: 70px;
-    background: #e69f42;
-}
 .menu{
     text-align: center;
-    height: 70px;
+    height: 80px;
     background-color: salmon;
 }
 .menu ul{
@@ -53,4 +48,492 @@
     width: 70px;
     margin-left: 40px;
     vertical-align: middle;
+}
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background: #f4efe6;
+    width: 100%;
+    font-family: 'Piazzolla', serif;
+}
+.NhanVat .NV1 .anhNV img{
+	width: 39%;
+    height: 600px;
+}
+.NhanVat .NV1 .tenNV h2{
+    font-size: 35px;
+	background-color: coral;
+	margin-left: 58%;
+}
+.NhanVat .NV1 .anhNV p{
+	font-size: 20px;
+	color: black;
+    float: right;
+    word-spacing: 5px;
+    line-height: 2;
+    width: 60%;
+	text-align: justify;
+}
+.NhanVat .NV1 .anhNV b{
+	font-size: 32px;
+	color: green;
+	float: right;
+	margin-right: 60px;
+}
+.NhanVat .NV1 .anhNV button{
+	width: 170px;
+	height: 50px;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 80px;
+	background-color: #ffb3ac;
+	color: black;
+}
+.NhanVat .NV2 .anhNV img{
+	width: 39%;
+    height: 600px;
+}
+.NhanVat .NV2 .tenNV h2{
+    font-size: 35px;
+	background-color: coral;
+	margin-left: 62%;
+}
+.NhanVat .NV2 .anhNV p{
+	font-size: 20px;
+	color: black;
+    float: right;
+    word-spacing: 5px;
+    line-height: 2;
+    width: 60%;
+	text-align: justify;
+}
+.NhanVat .NV2 .anhNV b{
+	font-size: 32px;
+	color: green;
+	float: right;
+	margin-right: 80px;
+}
+.NhanVat .NV2 .anhNV button{
+	width: 170px;
+	height: 50px;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 80px;
+	background-color: #ffb3ac;
+	color: black;
+}
+.NhanVat .NV3 .anhNV img{
+	width: 39%;
+    height: 600px;
+}
+.NhanVat .NV3 .tenNV h2{
+    font-size: 35px;
+	background-color: coral;
+	margin-left: 65%;
+}
+.NhanVat .NV3 .anhNV p{
+	font-size: 20px;
+	color: black;
+    float: right;
+    word-spacing: 5px;
+    line-height: 2;
+    width: 60%;
+	text-align: justify;
+}
+.NhanVat .NV3 .anhNV b{
+	font-size: 32px;
+	color: green;
+	float: right;
+	margin-right: 90px;
+}
+.NhanVat .NV3 .anhNV button{
+	width: 170px;
+	height: 50px;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 80px;
+	background-color: #ffb3ac;
+	color: black;
+}
+.NhanVat .NV4 .anhNV img{
+	width: 39%;
+    height: 600px;
+}
+.NhanVat .NV4 .tenNV h2{
+    font-size: 35px;
+	background-color: coral;
+	margin-left: 65%;
+}
+.NhanVat .NV4 .anhNV p{
+	font-size: 20px;
+	color: black;
+    float: right;
+    word-spacing: 5px;
+    line-height: 2;
+    width: 60%;
+	text-align: justify;
+}
+.NhanVat .NV4 .anhNV b{
+	font-size: 32px;
+	color: green;
+	float: right;
+	margin-right: 70px;
+}
+.NhanVat .NV4 .anhNV button{
+	width: 170px;
+	height: 50px;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 80px;
+	background-color: #ffb3ac;
+	color: black;
+}
+.NhanVat .NV5 .anhNV img{
+	width: 39%;
+    height: 600px;
+}
+.NhanVat .NV5 .tenNV h2{
+    font-size: 35px;
+	background-color: coral;
+	margin-left: 66%;
+}
+.NhanVat .NV5 .anhNV p{
+	font-size: 20px;
+	color: black;
+    float: right;
+    word-spacing: 5px;
+    line-height: 2;
+    width: 60%;
+	text-align: justify;
+}
+.NhanVat .NV5 .anhNV b{
+	font-size: 32px;
+	color: green;
+	float: right;
+	margin-right: 80px;
+}
+.NhanVat .NV5 .anhNV button{
+	width: 170px;
+	height: 50px;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 80px;
+	background-color: #ffb3ac;
+	color: black;
+}
+.NhanVat .NV6 .anhNV img{
+	width: 39%;
+    height: 600px;
+}
+.NhanVat .NV6 .tenNV h2{
+    font-size: 35px;
+	background-color: coral;
+	margin-left: 57%;
+}
+.NhanVat .NV6 .anhNV p{
+	font-size: 20px;
+	color: black;
+    float: right;
+    word-spacing: 5px;
+    line-height: 2;
+    width: 60%;
+	text-align: justify;
+}
+.NhanVat .NV6 .anhNV b{
+	font-size: 32px;
+	color: green;
+	float: right;
+	margin-right: 220px;
+}
+.NhanVat .NV6 .anhNV button{
+	width: 170px;
+	height: 50px;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 80px;
+	background-color: #ffb3ac;
+	color: black;
+}
+.NhanVat .NV7 .anhNV img{
+	width: 39%;
+    height: 600px;
+}
+.NhanVat .NV7 .tenNV h2{
+    font-size: 35px;
+	background-color: coral;
+	margin-left: 63%;
+}
+.NhanVat .NV7 .anhNV p{
+	font-size: 20px;
+	color: black;
+    float: right;
+    word-spacing: 5px;
+    line-height: 2;
+    width: 60%;
+	text-align: justify;
+}
+.NhanVat .NV7 .anhNV b{
+	font-size: 32px;
+	color: green;
+	float: right;
+	margin-right: 90px;
+}
+.NhanVat .NV7 .anhNV button{
+	width: 170px;
+	height: 50px;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 80px;
+	background-color: #ffb3ac;
+	color: black;
+}
+.NhanVat .NV8 .anhNV img{
+	width: 39%;
+    height: 600px;
+}
+.NhanVat .NV8 .tenNV h2{
+    font-size: 35px;
+	background-color: coral;
+	margin-left: 65%;
+}
+.NhanVat .NV8 .anhNV p{
+	font-size: 20px;
+	color: black;
+    float: right;
+    word-spacing: 5px;
+    line-height: 2;
+    width: 60%;
+	text-align: justify;
+}
+.NhanVat .NV8 .anhNV b{
+	font-size: 32px;
+	color: green;
+	float: right;
+	margin-right: 90px;
+}
+.NhanVat .NV8 .anhNV button{
+	width: 170px;
+	height: 50px;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 80px;
+	background-color: #ffb3ac;
+	color: black;
+}
+.NhanVat .NV9 .anhNV img{
+	width: 39%;
+    height: 600px;
+}
+.NhanVat .NV9 .tenNV h2{
+    font-size: 35px;
+	background-color: coral;
+	margin-left: 66%;
+}
+.NhanVat .NV9 .anhNV p{
+	font-size: 20px;
+	color: black;
+    float: right;
+    word-spacing: 5px;
+    line-height: 2;
+    width: 60%;
+	text-align: justify;
+}
+.NhanVat .NV9 .anhNV b{
+	font-size: 32px;
+	color: green;
+	float: right;
+	margin-right: 90px;
+}
+.NhanVat .NV9 .anhNV button{
+	width: 170px;
+	height: 50px;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 80px;
+	background-color: #ffb3ac;
+	color: black;
+}
+.NhanVat .NV10 .anhNV img{
+	width: 39%;
+    height: 600px;
+}
+.NhanVat .NV10 .tenNV h2{
+    font-size: 35px;
+	background-color: coral;
+	margin-left: 66%;
+}
+.NhanVat .NV10 .anhNV p{
+	font-size: 20px;
+	color: black;
+    float: right;
+    word-spacing: 5px;
+    line-height: 2;
+    width: 60%;
+	text-align: justify;
+}
+.NhanVat .NV10 .anhNV b{
+	font-size: 32px;
+	color: green;
+	float: right;
+	margin-right: 90px;
+}
+.NhanVat .NV10 .anhNV button{
+	width: 170px;
+	height: 50px;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 80px;
+	background-color: #ffb3ac;
+	color: black;
+}
+.NhanVat{
+    margin-left: 150px;
+	margin-right: 150px;
+}
+.NhanVat .NV1 {
+	padding-bottom: 50px;
+}
+.NhanVat .NV2 {
+	padding-bottom: 50px;
+}
+.NhanVat .NV3 {
+	padding-bottom: 50px;
+}
+.NhanVat .NV4 {
+	padding-bottom: 50px;
+}
+.NhanVat .NV5 {
+	padding-bottom: 50px;
+}
+.NhanVat .NV6 {
+	padding-bottom: 50px;
+}
+.NhanVat .NV7 {
+	padding-bottom: 50px;
+}
+.NhanVat .NV8 {
+	padding-bottom: 50px;
+}
+.NhanVat .NV9 {
+	padding-bottom: 50px;
+}
+.NhanVat .NV10 {
+	padding-bottom: 50px;
+}
+.tieude h1 {
+	text-align: center;
+	padding-top: 7px;
+	padding-bottom: 7px;
+    background-color: #96b1fa;
+    font-size: 25px;
+}
+.tieude {
+    padding-top: 10px;
+}
+.NhanVat .NV1 .tenNV{
+	background-color: coral;
+}
+.NhanVat .NV2 .tenNV{
+	background-color: coral;
+}
+.NhanVat .NV3 .tenNV{
+	background-color: coral;
+}
+.NhanVat .NV4 .tenNV{
+	background-color: coral;
+}
+.NhanVat .NV5 .tenNV{
+	background-color: coral;
+}
+.NhanVat .NV6 .tenNV{
+	background-color: coral;
+}
+.NhanVat .NV7 .tenNV{
+	background-color: coral;
+}
+.NhanVat .NV8 .tenNV{
+	background-color: coral;
+}
+.NhanVat .NV9 .tenNV{
+	background-color: coral;
+}
+.NhanVat .NV10 .tenNV{
+	background-color: coral;
+}
+.footer{
+    width: 100%;
+    height: 250px;
+    background: black;
+}
+.footer .footer-left{
+    float: left;
+    width: 35%;
+    height: 250px;
+}
+.footer .footer-left .footer-left-top{
+    height: 150px;
+}
+.footer .footer-left .footer-left-top h3{
+    text-align: justify;
+    padding: 30px 0px 0px 20px;
+    font-size: 18px;
+    color: white;
+}
+.footer .footer-left .footer-left-bottom{
+    height: 100px;
+}
+.footer .footer-right{
+    float: right;
+    width: 65%;
+    height: 250px;
+}
+.footer .footer-right .footer-right-left{
+    float: left;
+    width: 40%;
+    height: 250px;
+
+}
+.footer .footer-right .footer-right-left .footer-right-left-top{
+    width: 100%;
+    height: 200px;
+}
+.footer .footer-right .footer-right-left .footer-right-left-top img{
+    border: 1px solid white;
+    background: white;
+    margin-top: 18px;
+    margin-left: 50px;
+    border-radius: 50%;
+    widows: 100%;
+    height:170px;
+}
+.footer .footer-right .footer-right-left .footer-right-left-bottom{
+    widows: 100%;
+    height: 50px;
+    margin-left: 25px;
+}
+.footer .footer-right .footer-right-left .footer-right-left-bottom a{
+    font-size: 18px;
+    margin-left: 30px;
+}
+.footer .footer-right .footer-right-right{
+    float: right;
+    width: 60%;
+    height: 250px;
+}
+.footer .footer-right .footer-right-right .footer-right-right-top{
+    padding: 20px 0 0 0;
+    width: 100%;
+    height: 100px;
+}
+.footer .footer-right .footer-right-right .footer-right-right-bottom{
+    text-align: center;
+    width: 100%;
+    height: 150px;
+}
+.error{
+    color:red;
+    margin-left: 100px;
 }
